@@ -68,6 +68,20 @@ Full-stack task management application with a **Spring Boot backend and Angular 
 
 ---
 
+### [Vehicle Management](https://github.com/tejaswini14345/Vehicle-Management)
+Cloud-oriented full-stack vehicle management project with an **Angular frontend and Python AWS Lambda backend**.
+
+**Highlights:**
+- User registration and authentication
+- Vehicle catalog and transaction workflows
+- Angular component/service architecture
+- AWS Lambda and DynamoDB-oriented backend design
+- Serverless separation of authentication, catalog, and transaction responsibilities
+
+**Tech:** Angular · TypeScript · Python · AWS Lambda · DynamoDB
+
+---
+
 ### [Tejaswini Betina Portfolio](https://github.com/tejaswini14345/TejaswiniBetina-Portfolio)
 My current developer portfolio project with a modern TypeScript-based frontend and deployment-ready setup.
 
@@ -93,9 +107,9 @@ My current developer portfolio project with a modern TypeScript-based frontend a
 
 You can also explore:
 
-- [Vehicle Management](https://github.com/tejaswini14345/Vehicle-Management)
+- [Real Estate Django Application](https://github.com/tejaswini14345/RealEstate-Project)
+- [F1 Website](https://github.com/tejaswini14345/F1-Website)
 - [JPMC Advanced Software Engineering Forage Project](https://github.com/tejaswini14345/forage-midas)
-- [Test Automation Suite for Zoho Calendar](https://github.com/tejaswini14345/Comprehensive-Test-Automation-Suite-for-Zoho-Calendar-Application)
 
 ---
 
