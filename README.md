@@ -41,16 +41,16 @@ I’m currently strengthening my work around **microservices, Kafka, distributed
 ## 🚀 Featured Projects
 
 ### [Microservices Project](https://github.com/tejaswini14345/Microservices-Project)
-Java/Spring Boot backend project evolving toward a multi-service architecture.
+Java/Spring Boot microservices project with separate **Product and Cart services**.
 
-**Current work includes:**
-- Product Service with RESTful CRUD APIs
-- Spring Data JPA persistence
-- H2 database for local development
-- Maven-based project setup
-- Kafka and WebClient dependencies prepared for event-driven and service-to-service communication
+**Highlights:**
+- Product CRUD API with validation and structured error handling
+- Cart Service that calls Product Service for product details
+- Unit tests for both services
+- Dockerfiles and Docker Compose for local multi-service startup
+- GitHub Actions CI for both services
 
-**Tech:** Java 17 · Spring Boot · Spring Data JPA · REST · Kafka · WebClient · H2 · Maven
+**Tech:** Java 17 · Spring Boot · REST · Spring Data JPA · H2 · Docker · GitHub Actions
 
 ---
 
